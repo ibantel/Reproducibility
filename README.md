@@ -19,9 +19,9 @@
 - Paste repository URL and set path (potentially also fill in "Project directory name" although this should be filled in from the repository) 
 - Click "Create Project"
 - In *RStudio*, "File" > "New File" > "R Script", work on your code and save as desired (e.g. as "Reproducibility.R"); you can also add subfolders and (data) files to the directory.
-- In *RStudio*, you should see a tab "Git" in one of the panes; click "Commit" (i.e. upload to the GitHub repository)
-- In the window "RSStudio: Review Changes", select all files and paths you wish to commit, include a commit message and click "Commit" (and close the windows afterwards)
+- In *RStudio*, you should see a tab "Git" in one of the panes; click "Commit" (i.e. save the changes)
+- In the window "RSStudio: Review Changes", select all files and paths you wish to commit, include a commit message and click "Commit" (and close the windows afterwards), and "Push" (i.e. synchronize the GitHub repository with the local versions)
 - If you change your repository
   - on *GitHub*, you can "Pull" the changes to your local project
-  - on *RStudio*, you can "Push" the changes to *GitHub*
+  - on *RStudio*, you can "Push" the changes to *GitHub* (best "Pull" first to avoid error messages)  
   both from within *RStudio*'s "Git* pane
