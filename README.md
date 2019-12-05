@@ -12,6 +12,8 @@
 - sign in and go to "Settings" > "SSH and GPG keys"
 - Add a "New SSH key" (Title should refer to your RStudio, paste key from RStudio)
 
+- also see [this link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN "Link to tutorial") for a tutorial for version control with *Git* in *RStudio*
+
 ## Setup Project ##
 - Create new repository on *GitHub*
 - Copy repository URL
