@@ -2,13 +2,13 @@
 *This is a sample repository detailing how how to use RStudio with GitHub for version control and reproducibility.*
 
 ## Setup GitHub/RStudio ##
-#### 1 RStudio ####
+#### 1. RStudio ####
 - "Global Options" > Git/SVN
   - Check "Enable version control interfrace for RStudio projects"
   - specify "Git executable" path 
   - Generate SSH RSA key ("Create RSA key") and copy public SSH RSA key ("View public key")
   
-#### 2 GitHub ####
+#### 2. GitHub ####
 - sign in and go to "Settings" > "SSH and GPG keys"
 - Add a "New SSH key" (Title should refer to your RStudio, paste key from RStudio)
 
