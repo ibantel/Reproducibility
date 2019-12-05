@@ -1,4 +1,4 @@
-# set up version control with Git: https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN 
+# Tutorial to set up version control with Git: https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN 
 
 # in your project, use Tools > Version Control > Git
 # after restarting, .gitignore and .Rhistory is added; now, file histories will be added
