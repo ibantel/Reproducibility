@@ -1,5 +1,5 @@
 # Reproducibility repository
-*This is a sample repository detailing how how to use RStudio with GitHub for version control and reproducibility.*
+*This is a sample repository used for courses on reproducibility detailing how how to use RStudio with GitHub for version control and reproducibility.*
 
 ## Setup GitHub/RStudio ##
 #### 1. RStudio ####
